@@ -2,8 +2,12 @@
 
 ## Nombres:
 
-Daniel Martínez Herrán / 20222007052 /n
+Daniel Martínez Herrán / 20222007052
+
+
 Santiago Marin Paez / 20231020159
+
+
 Juan David González / 20222025068
 
 ## Objetivo
