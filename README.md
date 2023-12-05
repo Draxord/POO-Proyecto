@@ -2,7 +2,7 @@
 
 ## Nombres:
 
-Daniel Martínez Herrán / 20222007052
+Daniel Martínez Herrán / 20222007052 /n
 Santiago Marin Paez / 20231020159
 Juan David González / 20222025068
 
