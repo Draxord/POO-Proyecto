@@ -1,5 +1,4 @@
-# POO-Proyecto
-Proyecto de Programación Orientada a Objetos
+# Termohigrometro
 
 ## Nombres:
 
